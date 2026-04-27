@@ -62,23 +62,23 @@ export default function LandingPage() {
       description="Discover our collection of organic, handcrafted skincare designed to nourish your skin and reveal your natural radiance."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/ecofriendly-beauty-product_23-2150669167.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ecofriendly-beauty-product_23-2150669167.jpg?_wi=1",
           imageAlt: "Luxury skincare bottle",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/natural-medicine-concept-with-serum-plant_23-2148899363.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/natural-medicine-concept-with-serum-plant_23-2148899363.jpg?_wi=1",
           imageAlt: "Organic skincare serum",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-posing-with-gold-body-painting_23-2150466378.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-posing-with-gold-body-painting_23-2150466378.jpg?_wi=1",
           imageAlt: "Beauty model skincare",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/gua-sha-cotton-arrangement-top-view_23-2149357125.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gua-sha-cotton-arrangement-top-view_23-2149357125.jpg?_wi=1",
           imageAlt: "Spa skincare setting",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-skin-care-cream_23-2148761493.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-skin-care-cream_23-2148761493.jpg?_wi=1",
           imageAlt: "Cosmetic packaging",
         },
       ]}
@@ -189,7 +189,7 @@ export default function LandingPage() {
           quote: "My skin has never felt this hydrated and soft. Absolutely love the serums!",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/beauty-vlogger-adjusting-camera_23-2148916349.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/ecofriendly-beauty-product_23-2150669167.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ecofriendly-beauty-product_23-2150669167.jpg?_wi=2",
           imageAlt: "happy customer healthy skin beauty",
         },
         {
@@ -200,7 +200,7 @@ export default function LandingPage() {
           quote: "Effective products that don't irritate. The face cream is my daily go-to.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/closeup-cute-caucasian-young-girl-with-snowwhite-smile-dark-hair-white-background-people-free-time-concept_197531-31402.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/natural-medicine-concept-with-serum-plant_23-2148899363.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/natural-medicine-concept-with-serum-plant_23-2148899363.jpg?_wi=2",
           imageAlt: "happy customer healthy skin beauty",
         },
         {
@@ -211,7 +211,7 @@ export default function LandingPage() {
           quote: "Lumina has completely changed my skincare routine for the better. Truly refreshing.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/master-applying-makeup-smiling-blond-woman_23-2148113227.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-posing-with-gold-body-painting_23-2150466378.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-posing-with-gold-body-painting_23-2150466378.jpg?_wi=2",
           imageAlt: "happy customer healthy skin beauty",
         },
         {
@@ -222,7 +222,7 @@ export default function LandingPage() {
           quote: "Clean, effective, and ethical. What more could a skincare enthusiast ask for?",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/studio-shot-good-looking-woman-with-curly-bushy-hair-applies-cosmetic-eye-patches-holds-calla-smiles-gladfully-stands-bare-shoulders-isolated-brown-background-copy-space-your-text_273609-56986.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/gua-sha-cotton-arrangement-top-view_23-2149357125.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/gua-sha-cotton-arrangement-top-view_23-2149357125.jpg?_wi=2",
           imageAlt: "happy customer healthy skin beauty",
         },
         {
@@ -233,7 +233,7 @@ export default function LandingPage() {
           quote: "The toner is a game-changer. My skin looks visibly brighter every single day.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-holding-bag-with-organic-vegetables_23-2148454518.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-skin-care-cream_23-2148761493.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/arrangement-skin-care-cream_23-2148761493.jpg?_wi=2",
           imageAlt: "happy customer healthy skin beauty",
         },
       ]}
